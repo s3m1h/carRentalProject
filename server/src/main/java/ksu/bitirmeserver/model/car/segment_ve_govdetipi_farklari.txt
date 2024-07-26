@@ -1,0 +1,7 @@
+Tabii, bir araba modeli üzerinden segment ile gövde tipi arasındaki farkı açıklayabilirim.
+
+Örneğin, bir sedan araba modeli düşünelim. Bu sedan araba modeli, "sedan" gövde tipine sahiptir. Gövde tipi, aracın dış tasarımını ve yapısal özelliklerini belirtir. Sedan araçlar genellikle uzun ve kapalı bir gövdeye sahiptir. Aracın bagajı arka kısmında ayrılmış bir bölmede bulunur ve genellikle arka camın hemen altında bir bagaj kapağı bulunur. Sedan araçlar, genellikle dört kapılıdır, ancak iki kapılı sedanlar da bulunabilir.
+
+Öte yandan, segment araba modelinin pazar konumunu belirtir. Segment, aracın fiyatı, boyutu, performansı ve hedef kitlesi gibi faktörlere dayalı olarak belirlenir. Örneğin, sedan araçlar genellikle ekonomi, kompakt veya orta sınıf segmentlerde bulunur. Bu segmentler, araçların genel özelliklerine ve fiyatlarına göre belirlenir. Örneğin, bir sedan araba modeli ekonomi segmentinde yer alıyorsa, genellikle daha uygun fiyatlı ve düşük yakıt tüketimine sahip olabilir.
+
+Bu şekilde, gövde tipi aracın fiziksel yapısını belirtirken, segment araba modelinin pazar konumunu belirtir. Her iki kavram da araba seçimi ve karşılaştırması yaparken dikkate alınması gereken önemli faktörlerdir. Gövde tipi, aracın dış tasarımını ve kullanım amacını belirlerken, segment araçların fiyat, boyut ve performansını belirler.

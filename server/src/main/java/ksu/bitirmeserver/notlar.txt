@@ -1,0 +1,17 @@
+authe ntication - Kullanıcının authentication nesnesine doğrudan erişimi
+sağlar.
+hasIpAddress - Kullanıcının IP adresi olup, olmadığını sorgular.
+isAnonymous - Anonim kullanıcı için true değerini geri verir.
+isAuthe nticate d - Anonim olmayan kullanıcı için true değerini geri
+verir.
+permitAll - Her zaman true değerini geri verir.
+de nyAll - Her zaman false değerini geri verir.
+hasAnyRole(r ol1, r ol2) - Kullanıcı tanımlı rol listesinden herhangi bir
+role sahip ise true değerini geri verir.
+hasRole(r ol) - Kullanıcı tanımlı role sahip ise true değerini geri verir.
+isRememberMe - Kullanıcı "Beni Hatırla" fonksiyonu aracılığı ile login
+işlemini yaptı ise, true değerini geri verir.
+principal - Kullanıcının principal nesnesine doğrudan erişimi sağlar.
+Principal nesnesi kullanıcıyı temsil eden nesnedir.
+is FullyAuthe nticate d - Kullanıcı anonim ya da "Beni Hatırla"
+kullanıcısı değil ise, true değerini geri verir.
